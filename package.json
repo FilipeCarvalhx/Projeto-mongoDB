@@ -1,0 +1,20 @@
+{
+  "name": "banco-de-dados",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongo": "^0.1.0",
+    "mongoose": "^7.3.4",
+    "nodemon": "^3.0.1"
+  }
+}
